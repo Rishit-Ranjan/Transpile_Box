@@ -1,6 +1,6 @@
 # Transpile Box
 
-transpile_box is a small React + Vite starter focused on fast iteration and simple tooling. It comes preconfigured with React 19, Vite, Tailwind CSS support and ESLint so you can prototype UI ideas quickly.
+Transpile Bbox is a small React + Vite starter focused on fast iteration and simple tooling. It comes preconfigured with React 19, Vite, Tailwind CSS support and ESLint so you can prototype UI ideas quickly.
 
 **Tech stack:** `React 19`, `Vite`, `Tailwind CSS`, `ESLint`, `lucide-react` (icons)
 
