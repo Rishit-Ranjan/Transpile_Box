@@ -1,4 +1,4 @@
-# transpile_box
+# Transpile Box
 
 transpile_box is a small React + Vite starter focused on fast iteration and simple tooling. It comes preconfigured with React 19, Vite, Tailwind CSS support and ESLint so you can prototype UI ideas quickly.
 
