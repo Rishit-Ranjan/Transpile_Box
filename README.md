@@ -41,4 +41,8 @@ Open `http://localhost:5173` (or the URL printed by Vite) to see the app while `
 
 **Notes on Configuration**
 - Tailwind: project includes `tailwindcss` and the `@tailwindcss/vite` helper. Tweak `tailwind.config.js` (add one if needed) to customize design tokens.
-- ESLint: configured for a lightweight React setup. Consider adding TypeScript and `@typescript-eslint` for type-aware linting in larger apps.
+- ESLint: configured for a lightweight React setup. Consider adding TypeScript and `@typescript-eslint` for type-aware linting in larger apps.<br/><br/>
+
+
+<img width="1842" height="901" alt="image" src="https://github.com/user-attachments/assets/8561a52f-fae2-4ac7-8b8f-00c15db2d81b" />
+
